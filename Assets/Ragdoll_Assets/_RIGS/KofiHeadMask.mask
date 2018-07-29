@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: KofiHeadMask
+  m_Mask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_left_upperleg
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_left_upperleg/Kofi_Skel_left_knee
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_left_upperleg/Kofi_Skel_left_knee/Kofi_Skel_left_ankle
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_left_upperleg/Kofi_Skel_left_knee/Kofi_Skel_left_ankle/Kofi_Skel_left_toe
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_right_upperleg
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_right_upperleg/Kofi_Skel_right_knee
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_right_upperleg/Kofi_Skel_right_knee/Kofi_Skel_right_ankle
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_right_upperleg/Kofi_Skel_right_knee/Kofi_Skel_right_ankle/Kofi_Skel_right_toe
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_left_shoulder
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_left_shoulder/Kofi_Skel_left_arm
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_left_shoulder/Kofi_Skel_left_arm/Kofi_Skel_left_elbow
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_left_shoulder/Kofi_Skel_left_arm/Kofi_Skel_left_elbow/Kofi_Skel_left_wrist
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_left_shoulder/Kofi_Skel_left_arm/Kofi_Skel_left_elbow/Kofi_Skel_left_wrist/Kofi_Skel_left_wrist_end
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_neck1
+    m_Weight: 0
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_neck1/Kofi_Skel_head
+    m_Weight: 0
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_neck1/Kofi_Skel_head/Kofi_Skel_headend
+    m_Weight: 0
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_right_shoulder
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_right_shoulder/Kofi_Skel_right_arm
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_right_shoulder/Kofi_Skel_right_arm/Kofi_Skel_right_elbow
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_right_shoulder/Kofi_Skel_right_arm/Kofi_Skel_right_elbow/Kofi_Skel_right_wrist
+    m_Weight: 1
+  - m_Path: Kofi_Skel_hips/Kofi_Skel_spine1/Kofi_Skel_spine2/Kofi_Skel_right_shoulder/Kofi_Skel_right_arm/Kofi_Skel_right_elbow/Kofi_Skel_right_wrist/Kofi_Skel_right_wrist_end
+    m_Weight: 1
+  - m_Path: KofiGeo
+    m_Weight: 0
+  - m_Path: KofiGeo/group1
+    m_Weight: 0
+  - m_Path: KofiGeo/group1/pCylinder3 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group1/pCylinder4 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group1/pCylinder5 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group1/pSphere1 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group3
+    m_Weight: 0
+  - m_Path: KofiGeo/group3/pCylinder6
+    m_Weight: 0
+  - m_Path: KofiGeo/group3/pSphere2
+    m_Weight: 0
+  - m_Path: KofiGeo/group4
+    m_Weight: 0
+  - m_Path: KofiGeo/group4/pCylinder6 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group4/pSphere2 1
+    m_Weight: 0
+  - m_Path: KofiGeo/group5
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/pCube1
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/pCylinder1
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/pCylinder2
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface13
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface47
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface133
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface134
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface135
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface136
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface137
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/polySurface138
+    m_Weight: 0
+  - m_Path: KofiGeo/group5/root_gr/rootPiece
+    m_Weight: 0
+  - m_Path: KofiGeo/l_hand_gr
+    m_Weight: 0
+  - m_Path: KofiGeo/l_hand_gr/polySurface121
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface105
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface106
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface132
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface149
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface150
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface151
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface152
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface153
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface154
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface155
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface156
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface157
+    m_Weight: 0
+  - m_Path: KofiGeo/l_knee_gr/polySurface158
+    m_Weight: 0
+  - m_Path: KofiGeo/pCylinder3
+    m_Weight: 0
+  - m_Path: KofiGeo/pCylinder4
+    m_Weight: 0
+  - m_Path: KofiGeo/pCylinder5
+    m_Weight: 0
+  - m_Path: KofiGeo/pSphere1
+    m_Weight: 0
+  - m_Path: KofiGeo/r_hand_gr
+    m_Weight: 0
+  - m_Path: KofiGeo/r_hand_gr/polySurface110
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface99
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface100
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface130
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface139
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface140
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface141
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface142
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface143
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface144
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface145
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface147
+    m_Weight: 0
+  - m_Path: KofiGeo/r_knee_gr/polySurface148
+    m_Weight: 0
